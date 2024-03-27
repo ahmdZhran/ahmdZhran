@@ -38,7 +38,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git&theme=dark" />
   </a>
 
 
