@@ -2,14 +2,13 @@
   <img width="500" height="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 </div>
 
-###
+
+<h1 align="center">hey there 👋</h1>
 
 
-###
-
-<h1>hey there 👋</h1>
 
 ###
+
 
 ## 🙋‍♂️ About Me:
 
