@@ -27,7 +27,11 @@
 
 ###
 
-<p align="left">I'm Ahmed <br><br>- 🔭 I’m working as a flutter developer<br></p>
+- 🔭 I’m currently working as a  **Mobile Application Developer 📱**.
+
+- 🌱 I’m currently learning **Advanced Flutter**.
+
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/ahmdZhran?tab=repositories)**.
 
 
 ###
