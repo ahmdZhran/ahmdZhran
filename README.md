@@ -29,7 +29,7 @@
 
 <div>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,figma,vscode,androidstudio,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,postman,figma,vscode,androidstudio,git&theme=dark" />
   </a>
 </div>
 
