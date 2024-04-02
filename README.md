@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Mobile Application Developer 📱**.
+- 🔭 I’m currently working as a **Mobile Application Developer(Flutter) 📱**.
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
