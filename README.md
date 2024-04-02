@@ -67,3 +67,9 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ahmdZhran">
+</a>
+<a href="https://github.com/ahmdZhran?tab=followers"><img src="https://img.shields.io/github/followers/ahmdZhran?label=Followers&style=social" alt="GitHub Badge"></a>
