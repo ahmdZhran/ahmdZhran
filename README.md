@@ -16,7 +16,6 @@
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
-- You can view my current project that I'm currently working on this repo **[Instagram Clone](https://github.com/ahmdZhran/instagram_clone)**.
 <h3>🛠 Language and tools</h3>
 
 ###
