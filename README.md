@@ -12,9 +12,13 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Mobile Application Developer(Flutter) 📱**.
+👋 Hi, I'm Ahmed, a passionate Mobile Application Developer specializing in Flutter. 📱
 
-- 🌱 I’m currently learning **Advanced Flutter**.
+🌟 Currently, I'm honing my skills in Advanced Flutter to build even more efficient and robust applications.
+
+💡 I have a strong foundation in state management, API integration, and creating seamless user experiences.
+
+🚀 I'm always eager to learn new technologies and best practices to enhance my development workflow.
 
 <h3>🛠 Language and tools</h3>
 
