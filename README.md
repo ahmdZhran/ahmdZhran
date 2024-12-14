@@ -34,21 +34,20 @@
 <br>
 
 ## 📊 My Stats:
-
-<p align="center">
-## 📊 My Stats:
-
 <p align="center">
     <a href="https://github.com/ahmdZhran/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ahmdZhran's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmdZhran&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmdZhran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/ahmdZhran/github-readme-stats"><img alt="ahmdZhran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdZhran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+<a href="https://github.com/ahmdZhran/github-readme-stats">
+    <img alt="ahmdZhran's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmdZhran&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&include_all_commits=true&custom_title=My GitHub Stats"/>
+</a>
 
-  
-</p>
+<a href="https://github.com/ahmdZhran/github-readme-stats">
+    <img alt="ahmdZhran's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdZhran&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+</a>
+
 <br>
 
 ## 🤝 Connect With Me:
